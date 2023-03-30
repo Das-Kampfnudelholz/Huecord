@@ -6,11 +6,12 @@ A Discord Bot to control Philips Hue Lights via Chat Commands
 3. Run the tool to create the config.json and edit it `py ./PhilipsHueBot.py`
 4. Run it Again and Invite the Bot to your server `py ./PhilipsHueBot.py`
 ## Commands
-/on         Turns the Lights on
-/off        Turns the Lights off
-/brightness Changes the Lights brightness
-/white      Sets the Lights to white 
-/red        Sets the Lights to red
-/color      Sets the Lights to an HEX color 
-/disco      Makes an Animation for 10 Seconds
-/rainbow    Makes an Rainbow Animation 
+1. /on         Turns the Lights on
+2. /off        Turns the Lights off
+3. /brightness Changes the Lights
+brightness
+4./white      Sets the Lights to white 
+5./red        Sets the Lights to red
+6./color      Sets the Lights to an HEX color 
+7./disco      Makes an Animation for 10 Seconds
+8./rainbow    Makes an Rainbow Animation 
