@@ -8,8 +8,8 @@ A Discord Bot to control Philips Hue Lights via Chat Commands
 ## Commands
 1. /on         Turns the Lights on
 2. /off        Turns the Lights off
-3. /brightness Changes the Lights
-brightness
+3. /brightness Changes the Lights brightness
+
 4./white      Sets the Lights to white 
 5./red        Sets the Lights to red
 6./color      Sets the Lights to an HEX color 
