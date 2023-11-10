@@ -1,4 +1,2 @@
-interactions
-discord
+discord-py-interactions
 requests
-discord_slash
